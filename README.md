@@ -4,10 +4,10 @@ Endgame Gear OP1 8k beta firmwares
 
 Changelog:
 
-Version 1.20 Beta
+Version 1.20 Beta:
 - Fixed: Main buttons not working as intended, which was introduced with 1.19
 
-Version 1.19 Beta
+Version 1.19 Beta:
 - New Multiclickfilter algorithm for MMB and side buttons
 - Improved surface compatibility on 1mm LoD
 - Improved USB compatibility
@@ -16,7 +16,7 @@ Notes:
 - Multiclickfilter values >18 are expected to be less spammable by design
 - a working USB port is still required to flash the FW for the time being
 
-Version 1.16 Beta
+Version 1.16 Beta:
 - Fixed: Idle jittter, potentially also improves tracking performance on challenging surfaces
 
 Version 1.15 Beta:
