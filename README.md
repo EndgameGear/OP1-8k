@@ -4,6 +4,14 @@ Endgame Gear OP1 8k beta firmwares
 
 Changelog:
 
+Version 1.22 Beta:
+- Added: Motion Jitter Filter toggle
+- Added: FW1.06 tracking parameters when 2mm LoD + Slamclick Filter off are selected
+
+Notes:
+- Use OP1 8k Configuration Tool v 1.12 with this firmware. Download: ⁠software-downloads⁠OP1 8k
+- LED behaviour "glitchy" when 2mm LoD + Slamclick Filter off are selected
+
 Version 1.20 Beta:
 - Fixed: Main buttons not working as intended, which was introduced with 1.19
 
