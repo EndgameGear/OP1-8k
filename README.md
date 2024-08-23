@@ -9,7 +9,7 @@ Version 1.22 Beta:
 - Added: FW1.06 tracking parameters when 2mm LoD + Slamclick Filter off are selected
 
 Notes:
-- Use OP1 8k Configuration Tool v 1.12 with this firmware. Download: ⁠software-downloads⁠OP1 8k
+- Use OP1 8k Configuration Tool v 1.12 with this firmware.
 - LED behaviour "glitchy" when 2mm LoD + Slamclick Filter off are selected
 
 Version 1.20 Beta:
